@@ -1,0 +1,3 @@
+Doc1 : I am Mansi
+Doc2 : I live in Nagpur
+Doc3 : I am a teacher

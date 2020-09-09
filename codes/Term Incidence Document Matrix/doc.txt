@@ -1,0 +1,4 @@
+Doc1 : Breakthrough drug for schizophrenia
+Doc2 : New schizophrenia drug
+Doc3 : New approach for treatment of schizophrenia
+Doc4 : New hopes for schizophrenia patients
